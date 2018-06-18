@@ -1,0 +1,5 @@
+suresh	45000	Hyderabad,TS,500008
+ramesh	65000	Bangalore,KA,500000
+reddy	52452	chennai,TN,561212
+jimmy	85263	Mumbai,KA,565685
+krina	96523	Pune,KA,54654

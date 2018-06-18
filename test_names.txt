@@ -1,0 +1,7 @@
+1,karthik,developer,12000,gusto,1 
+2,raaj,administrator,20000,gusto,2 
+3,karthik,developer,12000,gusto,1 
+4,sudhi,clruck,2000,att,5 
+5,shhhravani,manager,50000,att,3 
+6,mouunika,asstmanager,25000,att,2 
+7,ranadeep,head,100000,gusto,10
